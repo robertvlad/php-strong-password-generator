@@ -1,7 +1,7 @@
 <?php
 
     // LINK ALLE FUNCTIONS
-    include __DIR__ .'./functions/functions.php';
+    include __DIR__ .'/functions/functions.php';
 
     $lunghezza_password = $_POST['password'] ?? '';
 
